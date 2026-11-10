@@ -14,7 +14,9 @@ I build cross-platform **Android & iOS apps** with Flutter, and I have **1.5+ ye
 ### 🛠️ Tech Stack
 
 **Mobile:** Flutter · Dart · FlutterFlow · Android (Kotlin, Java, XML)
+
 **Backend:** Supabase · Firebase · Firestore · REST APIs · SQLite
+
 **Tools:** Git · GitHub · Postman · Android Studio · VS Code · Google Play Console
 
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,supabase,firebase,postman,git,github,vscode)](https://skillicons.dev)
